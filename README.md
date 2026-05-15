@@ -25,10 +25,15 @@ run_all_pwfem_exps.py
 
 ## Citation
 ```latex
-@article{zhong2026super,
-title = {Super-Resolution for Low-Fidelity Physical System Observations with Probabilistic Wavelet Representation},
-journal = {Computers \& structures},
-author = {Zhirong Zhong and Zhongyi Zhang and Zhi Zhai and Meng Ma and Jinxin Liu},
+@article{ZHONG2026108286,
+title = {Super-resolution for low-fidelity physical system observations with probabilistic wavelet representation},
+journal = {Computers & Structures},
+volume = {329},
+pages = {108286},
+year = {2026},
+issn = {0045-7949},
+doi = {https://doi.org/10.1016/j.compstruc.2026.108286},
+author = {Zhirong Zhong and Zhongyi Zhang and Zhi Zhai and Meng Ma and Jinxin Liu}
 }
 ```
 ## License
